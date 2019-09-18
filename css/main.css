@@ -2453,6 +2453,8 @@ button.icon-btn:hover {
 	-moz-border-radius: 0;
 	-ms-border-radius: 0;
 	border-radius: 0;
+	width: 75%;
+	height: 60%; 
 }
 
 /* -- Homepage roadmap-to-seccess section css -- */
